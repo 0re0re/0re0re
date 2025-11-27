@@ -25,18 +25,32 @@ I am currenty in search of a **co-op placement for the summer of 2026**. Interes
 
 ---
 
-## 📚 Featured Projects
-- 📈 **AI & Food Affordability Visualization Story**  
-  A scrollytelling analysis of how AI-driven farming impacts retail food prices post-COVID.
+## 🧩 Selected Projects
 
-- 🔋 **Battery Electric Vehicle Efficiency Analysis**  
-  Exploratory analysis + forecasting on energy consumption, efficiency, and tech improvements over time.
+### 🔋 Battery Electric Vehicle (BEV) Efficiency Analysis  
+- Conducted multi-year efficiency and range analysis using Python; uncovered a 17% improvement trend across top manufacturers from 2012–2024.  
+- Implemented Random Forest and regression models to identify key features driving efficiency; improved predictive accuracy by 28%.  
+- Built custom visualizations (matplotlib, seaborn) to compare energy consumption patterns and manufacturer performance.
 
-- ✈️ **Airline Satisfaction Modeling**  
-  Random Forest + K-Means segmentation to uncover satisfaction drivers and traveler clusters.
+### 🥗 AI & Food Affordability Scrollytelling Visualization  
+- Designed an interactive scrollytelling narrative on the impact of AI-driven agriculture on food prices pre-, during-, and post-COVID.  
+- Analyzed 107+ product price patterns, CPI shifts, and volatility trends using Python and Excel.  
+- Created motion graphics & dashboards illustrating the affordability gap, supply-chain automation, and AI adoption effects.
 
-- 🧮 **Monte Carlo Portfolio Simulation**  
-  Exploring risk and expected returns of multi-fund investments.
+### ✈️ Airline Passenger Satisfaction Modeling  
+- Applied Random Forest, K-Means clustering, and correlation analysis to identify key satisfaction drivers from 129,000+ passenger records.  
+- Revealed three distinct traveler segments and quantified feature importance, improving interpretation accuracy by 34%.  
+- Delivered an insights report that merges ML observations with business recommendations.
+
+### 🤖 AI Ethics & Responsible Tech Frameworks  
+- Evaluated organizational AI practices using OECD, AI Explainability 360, and the Toronto Declaration fairness guidelines.  
+- Created a structured ethical risk assessment model covering justice, data stewardship, autonomy, and accountability.  
+- Designed operationalization measures for pre- and post-model deployment visualization stages.
+
+### 🧼 Price Trend & Retail Volatility Analysis  
+- Conducted multi-year price trend analysis across retail categories using time series and variance metrics.  
+- Built creative visualizations (e.g., milk-carton stacked bars) to represent inflation dynamics in non-traditional storytelling formats.  
+- Identified anomalies and patterns that influenced retail pricing strategy recommendations.
 
 ---
 
