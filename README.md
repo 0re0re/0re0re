@@ -1,4 +1,4 @@
-# Hi, I'm Oreoluwa 👋  
+# Hi, I'm Ore 👋  
 ## Marketing × Data Analytics × AI
 
 I’m a Business Analytics & AI graduate student (Ontario Tech University, 2025) with a focus on **transforming data into insight-driven stories**.  
