@@ -1,9 +1,9 @@
 # Hi, I'm Ore 👋  
-## Marketing × Data Analytics × AI
+## Marketing × Data Analytics × AI ##
 
-I’m a Business Analytics & AI graduate student (Ontario Tech University, 2025) with a focus on **transforming data into insight-driven stories**.  
+**I’m a Business Analytics & AI graduate student (Ontario Tech University, 2025) with a focus on **transforming data into insight-driven stories**.  
 My work sits at the intersection of **data analysis**, **machine learning**, **ethical AI**, and **creative storytelling**—powered by my background in **brand marketing**.
-I am currenty in search of a **co-op placement for the summer of 2026**. Interested in roles that heightens my expertise and challenges my work ethic.
+I am currenty in search of a **co-op placement for the summer of 2026**. Interested in roles that heightens my expertise and challenges my work ethic.**
 ---
 
 ## 🔍 What I’m Working On
