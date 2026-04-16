@@ -55,8 +55,8 @@ I am currenty in search of a **co-op placement for the summer of 2026**. Interes
 ---
 
 ## 🧩 Areas I’m Passionate About
-- Data-driven marketing strategy  
-- Ethical & Responsible AI  
+- Data-driven marketing strategy development  
+- Ethical & Responsible AI usage and implementation
 - Human-centered data storytelling  
 - Building analytics solutions that work in real life  
 - Merging creativity with technical depth  
